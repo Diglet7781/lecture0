@@ -1,0 +1,37 @@
+h1,h2{
+  color:blue;
+  text-align: center;
+}
+p {
+  color: red;
+}
+
+table{
+  border-collapse: collapse;
+  width: 50%;
+}
+th{
+  background-color: teal;
+}
+th,td{
+  border:2px solid black;
+  padding: 5px;
+
+}
+
+#top{
+  text-align: center;
+  font-family: cursive;
+  font-size:18;
+}
+#middle{
+  text-align: center;
+  font-family: sans-serif;
+}
+#bottom{
+  text-align: center;
+  font-family: serif;
+}
+.name{
+  font-weight: bold;
+}
